@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h6{ 
+    font-family: sans-serif;
+    font-size: xx-large;
+ }
+ dt{
+    font-size: x-large;
+ }
+
+ .font {
+   font-style: normal;
+   font-size: 22px;
+ }
